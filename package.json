@@ -1,6 +1,6 @@
 {
-  "name": "module-cli",
-  "version": "1.0.4",
+  "name": "module-generate",
+  "version": "1.0.5",
   "description": "vue模块文件生成工具",
   "keywords": [
     "generator",
@@ -13,12 +13,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fdy696/module-generate"
+    "url": "git+https://github.com/fdy696/module-cli"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fdy696/module-generate/issues"
+    "url": "https://github.com/fdy696/module-cli/issues"
   },
-  "homepage": "https://github.com/fdy696/module-generate#readme"
+  "homepage": "https://github.com/fdy696/module-cli#readme"
 }
